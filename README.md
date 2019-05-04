@@ -1,4 +1,3 @@
-https://dev.azure.com/surajsunrays86/SunraysAzurePipelineTest/_apis/build/status/surajsunrays.node-sample-app?branchName=master
 
 [![Build Status](https://dev.azure.com/surajsunrays86/SunraysAzurePipelineTest/_apis/build/status/surajsunrays.node-sample-app?branchName=master)](https://dev.azure.com/surajsunrays86/SunraysAzurePipelineTest/_build/latest?definitionId=1&branchName=master)
 ---
