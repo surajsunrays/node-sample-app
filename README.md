@@ -1,5 +1,9 @@
 
 [![Build Status](https://dev.azure.com/surajsunrays86/SunraysAzurePipelineTest/_apis/build/status/surajsunrays.node-sample-app?branchName=master)](https://dev.azure.com/surajsunrays86/SunraysAzurePipelineTest/_build/latest?definitionId=1&branchName=master)
+
+</br>
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=surajsunrays_node-sample-app)](https://sonarcloud.io/dashboard?id=surajsunrays_node-sample-app)
+
 ---
 topic: Node.js Hello World
 languages:
