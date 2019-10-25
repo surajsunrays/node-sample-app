@@ -21,3 +21,6 @@ This sample demonstrates a tiny Hello World node.js app for [App Service Web App
 # Contributing
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=surajsunrays_node-sample-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=surajsunrays_node-sample-app)
